@@ -1,0 +1,7 @@
+/* UI ONLY — no backend */
+{
+  "semi": true,
+  "singleQuote": true,
+  "printWidth": 100,
+  "trailingComma": "all"
+}
