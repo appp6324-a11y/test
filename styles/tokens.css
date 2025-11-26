@@ -1,0 +1,27 @@
+/* UI ONLY — no backend */
+/* CSS tokens: primary/secondary, gray-bg, spacing scale, radii */
+:root {
+  --primary: #2563eb;
+  --secondary: #f59e0b;
+  --gray-bg: #f8f9fb;
+  --text-color: #111827;
+  --muted: #6b7280;
+
+  /* spacing scale (8px) */
+  --space-1: 0.5rem;   /* 8px */
+  --space-2: 1rem;     /* 16px */
+  --space-3: 1.5rem;   /* 24px */
+  --space-4: 2rem;     /* 32px */
+
+  /* radii */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 18px;
+}
+
+/* Dark mode tokens */
+:root.dark {
+  --primary: #1e40af;
+  --text-color: #e6eef8;
+  --muted: #9aa6b2;
+}
