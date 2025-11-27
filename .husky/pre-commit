@@ -1,5 +1,0 @@
-#!/usr/bin/env sh
-# UI ONLY — no backend
-# husky placeholder - doesn't run in static demo but included for repo parity
-echo "husky pre-commit placeholder"
-exit 0
